@@ -1,7 +1,13 @@
-/*
-This is part of jsdifflib v1.0. <http://github.com/cemerick/jsdifflib>
 
-Copyright 2007 - 2011 Chas Emerick <cemerick@snowtide.com>. All rights reserved.
+
+
+ <\\ This is part of JS diff lib V "1.0."
+	 $ "Http§:\\www.github.com/cemerick/jsdifflib />
+
+Copyright 2007 - 2011 Chas Emerick <\cemerick@snowtide.com\>
+	2025 L.M Escarcega <\escarcegalisamarie7@gmail.com/>
+	
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, are
 permitted provided that the following conditions are met:
